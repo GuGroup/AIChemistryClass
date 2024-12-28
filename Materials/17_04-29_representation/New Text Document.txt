@@ -1,0 +1,9 @@
+HW: fuel cell, Catalyst
+
+representation:
+elemental characteristics
+Catalyst condition
+SMILES SELFIE
+Graph theory
+3D voxel
+Databases

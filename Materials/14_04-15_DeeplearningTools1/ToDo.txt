@@ -1,0 +1,14 @@
+Vanishing gradient (https://www.youtube.com/watch?v=qhXZsFVxGKo&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc&index=10)
+MiniBatch
+Adam
+
+Batchnorm
+Hyperparameter vs parameter (https://www.youtube.com/watch?v=VTE2KlfoO3Q&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=42)
+Train/Test revisit. Early stopping (C2_W3)
+Bias/Variance (C2_W3)
+Learning curve (C2_W3)
+
+Debugging an algorithm  (C2_W3)
+Trade off  (C2_W3)
+Iterative ML development  (C2_W3)
+orthogonalization (https://www.youtube.com/watch?v=UEtvV1D6B3s&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b&index=2)
