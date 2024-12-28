@@ -1,3 +1,0 @@
-Matrix multiplication
-derivatives?
-vectorization
